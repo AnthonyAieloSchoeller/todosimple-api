@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "apring.output.ansi.enabled",
+  "type": "java.lang.String",
+  "description": "A description for 'apring.output.ansi.enabled'"
+}]}
